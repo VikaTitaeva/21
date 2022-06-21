@@ -1,0 +1,11 @@
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\bin\Debug\ПР-20.exe.config
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\bin\Debug\ПР-20.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\bin\Debug\ПР-20.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР-20.csproj.AssemblyReference.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР_20.Form1.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР_20.Properties.Resources.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР-20.csproj.GenerateResource.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР-20.csproj.CoreCompileInputs.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР-20.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР-20.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-20\ПР-20\obj\Debug\ПР_20.Form2.resources
